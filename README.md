@@ -13,7 +13,7 @@ This is a **rule-based chatbot**, meaning it responds to user queries using pred
 
 ## 📂 Project Structure
 📦 chatbot-project
-┣ 📜 chatbot.py # Main Python script
+┣ 📜 Task 8.py # Main Python script
 ┣ 📜 README.md # Project documentation
 
 
